@@ -1,3 +1,4 @@
 return {
-"skibidi'
+"skibidi",
+"amogus" -- HWID Whitelist System
 }
