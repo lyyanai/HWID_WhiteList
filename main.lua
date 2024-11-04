@@ -10,6 +10,8 @@ return {
   "9d5d0d7f-86ec-4f3f-97b2-131c79dd415f", -- niceon1 AKA hehehehehehehehe HWID { Old }
   "28f94b21-dfe9-4aee-ad78-b70d76623a94", -- barond._ AKA Yhazhy HWID
   "399341a5-ae1c-48d4-8276-6420bbaa7103", -- niceon1 AKA hehehehehehehehe HWID { New }
+  "4BEB2D40-00AF-46DD-955A-0D3153C91A78", -- stas0354 AKA Scripter HWID #1
+  "4beb2d40-00af-46dd-955a-0d3153c91a78", -- stas0354 AKA Scripter HWID #2
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
