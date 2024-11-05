@@ -11,6 +11,7 @@ return {
   "4beb2d40-00af-46dd-955a-0d3153c91a78", -- stas0354 AKA Scripter HWID #2
   "203b0997-d374-474e-989c-7c8aa6607ad5", -- nexer1234 AKA Nexer1234 HWID
   "868a29ed-d2c7-476d-baa8-78ad2bcbff16", -- yesbro0019 AKA Yes Bro HWID
+  "4bc38f00-acec-4f1e-9b88-06b5ce89521e", -- mdmn_. AKA dkdk HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
