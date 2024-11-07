@@ -6,7 +6,7 @@ return {
   "1D0C9AED-5B94-42DB-9DF0-BBF13B2A3403", -- rom6481 AKA idk HWID { PC }
   "1d0c9aed-5b94-42db-9df0-bbf13b2a3403", -- rom6481 AKA idk HWID { PC }
   "28f94b21-dfe9-4aee-ad78-b70d76623a94", -- barond._ AKA Yhazhy HWID
-  "399341a5-ae1c-48d4-8276-6420bbaa7103", -- niceon1 AKA hehehehehehehehe HWID
+  "a760d170-bb9a-4420-a773-f54f9fc43282", -- niceon1 AKA hehehehehehehehe HWID
   "4BEB2D40-00AF-46DD-955A-0D3153C91A78", -- stas0354 AKA Scripter HWID { PC } 
   "4beb2d40-00af-46dd-955a-0d3153c91a78", -- stas0354 AKA Scripter HWID { PC }
   "203b0997-d374-474e-989c-7c8aa6607ad5", -- nexer1234 AKA Nexer1234 HWID
