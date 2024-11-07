@@ -18,7 +18,7 @@ return {
   "759864fe-d9ee-441f-94dd-20e3e12ef596", -- thewho0404 AKA thewho HWID { PC }
   "51ade8fd-a7f3-4e8d-a6a3-e3983ee54103", -- thewho0404 AKA thewho HWID
   "85fe8ed6-4020-43f4-8479-2dab1e8a4ab7", -- noob12345678999 AKA demon HWID
-  "45d3b466-5d89-4976-849f-78bdc11d91e9", -- vanya pooper
+  "45d3b466-5d89-4976-849f-78bdc11d91e9", -- ivan pooper
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
