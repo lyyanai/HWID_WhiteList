@@ -19,6 +19,7 @@ return {
   "51ade8fd-a7f3-4e8d-a6a3-e3983ee54103", -- thewho0404 AKA thewho HWID
   "85fe8ed6-4020-43f4-8479-2dab1e8a4ab7", -- noob12345678999 AKA demon HWID
   "45d3b466-5d89-4976-849f-78bdc11d91e9", -- ivan pooper
+  "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
