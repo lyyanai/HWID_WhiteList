@@ -24,6 +24,7 @@ return {
   "f2da7f76-ded0-404a-9d26-167e105ee9d7", -- maybeorigin AKA Origin HWID
   "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA Window HWID
   "8cda46bb-1c59-4cbf-9083-42ded7d03314", -- zero018185 AKA Zero HWID
+  "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
