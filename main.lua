@@ -22,6 +22,7 @@ return {
   "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
   "53b13ba9-b11f-476b-b9dd-a38765520ac9",
   "f2da7f76-ded0-404a-9d26-167e105ee9d7", -- maybeorigin AKA Origin HWID
+  "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA Window HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
