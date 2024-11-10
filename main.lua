@@ -22,8 +22,8 @@ return {
   "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
   "53b13ba9-b11f-476b-b9dd-a38765520ac9", -- idk who is it
   "e22d6345-eabc-4b43-9064-766690e0879e", -- maybeorigin AKA Origin HWID
-  "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA Window HWID
-  "8cda46bb-1c59-4cbf-9083-42ded7d03314", -- zero018185 AKA Zero HWID
+  "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA 
+  "629e2728-0fc1-451d-897c-34accca06a0d", -- zero018185 AKA Zero HWID
   "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
   "skibidi" -- kys - keep yourself safe
 }
