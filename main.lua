@@ -28,6 +28,7 @@ return {
   "48bb9aab-701f-454d-a636-8b3337f6ef2d", -- ddmm11_. AKA dmmd HWID
   "25e46bfe-b3e8-45b3-bdf3-7d77e3b5a918", -- orielthegreat23 AKA the dead soul HWID
   "434211D8-888C-42BC-85BA-07A7B528DCFA", -- kayaakk HWID
+  "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
