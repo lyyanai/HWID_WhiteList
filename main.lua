@@ -29,6 +29,7 @@ return {
   "25e46bfe-b3e8-45b3-bdf3-7d77e3b5a918", -- orielthegreat23 AKA the dead soul HWID
   "3251ab4a-60a4-4304-8977-b0a86e6c1f8e", -- kayaakk HWID
   "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
+  "FF272E35-34C1-43EB-B7B7-62992D0DE761", -- on sigma hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
