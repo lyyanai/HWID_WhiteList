@@ -30,6 +30,7 @@ return {
   "3251ab4a-60a4-4304-8977-b0a86e6c1f8e", -- kayaakk HWID
   "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
   "FF272E35-34C1-43EB-B7B7-62992D0DE761", -- on sigma hwid
+  "dc121f00-c103-4f4b-ab7f-e08cf280f240", -- stardeww_ AKA starzxx HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
