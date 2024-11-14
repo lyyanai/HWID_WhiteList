@@ -32,6 +32,7 @@ return {
   "FF272E35-34C1-43EB-B7B7-62992D0DE761", -- on sigma hwid
   "dc121f00-c103-4f4b-ab7f-e08cf280f240", -- stardeww_ AKA starzxx HWID
   "a4de64d9-29a8-4888-b853-bf74b35b90f9", -- strikerpro AKA strikerpro_gamer HWID
+  "47652d9d-0dc8-42ba-984b-d72ad61fecde", -- thien5667 AKA thien HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
