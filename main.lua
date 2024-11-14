@@ -34,6 +34,7 @@ return {
   "a4de64d9-29a8-4888-b853-bf74b35b90f9", -- strikerpro AKA strikerpro_gamer HWID
   "47652d9d-0dc8-42ba-984b-d72ad61fecde", -- thien5667 AKA thien HWID
   "dd18f944-23d1-4d2e-b28d-e15012960488", -- gilangsan HWID
+  "4748ba71-dd23-4f70-b6f1-bc1edd4eabaa", -- messigamer_44421 AKA Normal Guy HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
