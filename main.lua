@@ -2,7 +2,7 @@ return {
   "d7fa905a-c32b-4943-b795-f2a79d284bb6", -- legendlife2160 AKA Simple_Guy HWID
   "f223f01b-7f5a-4729-a8fc-3e8d007660ff", -- noob365 AKA Nameless Bot HWID
   "b9cd528f-6948-416f-bd57-168828a39ea1", -- friend11buuguu19777 AKA notcool HWID
-  "0661eed7-d0d1-4331-ae4a-41f3a369869a", -- randomxd01090 AKA mr bacon HWID
+  "c61e0043-b55d-4c10-a462-182dd3b4c3f7", -- randomxd01090 AKA mr bacon HWID
   "1D0C9AED-5B94-42DB-9DF0-BBF13B2A3403", -- rom6481 AKA idk HWID { PC }
   "1d0c9aed-5b94-42db-9df0-bbf13b2a3403", -- rom6481 AKA idk HWID { PC }
   "136a3ed9-8ef8-461c-9628-84421a622642", -- barond._ AKA Yhazhy HWID
