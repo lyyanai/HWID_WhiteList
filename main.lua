@@ -36,6 +36,7 @@ return {
   "dd18f944-23d1-4d2e-b28d-e15012960488", -- gilangsan HWID
   "a3fb437e-7ac4-448e-aaf0-f6c142d6a707", -- messigamer_44421 AKA Normal Guy HWID
   "77c78b77-7564-45d5-9cbd-761b01dd944b", -- randycanvas AKA FreddyBazbear HWID
+  "600c3200-27b7-4d3d-ad6f-71b570097a6e", -- jett99q37 AKA Jett HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
