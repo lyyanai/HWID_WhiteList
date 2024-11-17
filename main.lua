@@ -41,6 +41,7 @@ return {
   "759514FC-1997-4F55-A76A-FBD00308F463", -- whiteones AKA zeo HWID
   "3c6f2cc2-3c52-4266-af35-2ecccda8f407", -- nothingperk AKA Nothing HWID
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
+  "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
