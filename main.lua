@@ -45,6 +45,7 @@ return {
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
   "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
   "c66ecb1c-a6f6-4af1-95ac-ffbcb59a90fd", -- Kanade HWID
+  "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
