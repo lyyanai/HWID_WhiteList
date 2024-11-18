@@ -34,7 +34,7 @@ return {
   "a4de64d9-29a8-4888-b853-bf74b35b90f9", -- strikerpro AKA strikerpro_gamer HWID
   "47652d9d-0dc8-42ba-984b-d72ad61fecde", -- thien5667 AKA thien HWID
   "dd18f944-23d1-4d2e-b28d-e15012960488", -- gilangsan HWID
-  "a3fb437e-7ac4-448e-aaf0-f6c142d6a707", -- messigamer_44421 AKA Normal Guy HWID
+  "a82f5a32-7125-4d25-b9e2-5c1901349bd3", -- messigamer_44421 AKA Normal Guy HWID
   "77c78b77-7564-45d5-9cbd-761b01dd944b", -- randycanvas AKA FreddyBazbear HWID
   "600c3200-27b7-4d3d-ad6f-71b570097a6e", -- jett99q37 AKA Jett HWID
   "01EA9F03-42C6-47F9-A819-C8C98BF386DA", -- kasisupport AKA Kasi HWID
@@ -43,6 +43,8 @@ return {
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
   "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
+  "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
+  "c66ecb1c-a6f6-4af1-95ac-ffbcb59a90fd", -- Kanade HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
