@@ -16,7 +16,7 @@ return {
   "4e9e6144-d779-4329-97f8-f4a193c83495", -- nexer1234 AKA Nexer1234 HWID { PC }
   "759864FE-D9EE-441F-94DD-20E3E12EF596", -- thewho0404 AKA thewho HWID { PC }
   "759864fe-d9ee-441f-94dd-20e3e12ef596", -- thewho0404 AKA thewho HWID { PC }
-  "51ade8fd-a7f3-4e8d-a6a3-e3983ee54103", -- thewho0404 AKA thewho HWID
+  "a1ac1d50-cd65-47b4-a837-5b508209e80e", -- thewho0404 AKA thewho HWID
   "857610fb-5833-4ec9-90a7-5991a5da3312", -- noob12345678999 AKA demon HWID
   "45d3b466-5d89-4976-849f-78bdc11d91e9", -- ivan pooper
   "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
@@ -43,9 +43,10 @@ return {
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
   "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
-  "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
+  "5dfe70d9-1154-4126-ba82-9aa5813d3c73", -- paradox.nothing AKA Paradox Time HWID
   "c66ecb1c-a6f6-4af1-95ac-ffbcb59a90fd", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
+  "92c60739-e2ba-4987-b2ab-ffa146d8b90e", -- idiotism_fr AKA idiotism HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
