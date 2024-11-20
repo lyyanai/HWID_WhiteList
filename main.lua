@@ -52,3 +52,5 @@ return {
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
+
+-- [((OBFUSCATED WITH SKIBIDI OBFUSCATOR))]v39=skibidi,v69=sussy aah, sksjdndioebshs(()))end..,,.
