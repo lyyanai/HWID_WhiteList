@@ -48,6 +48,7 @@ return {
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "92c60739-e2ba-4987-b2ab-ffa146d8b90e", -- idiotism_fr AKA idiotism HWID
   "f2a5ccdd-1c53-433e-b0bf-b888b83bc933", -- poopking. AKA moai emoji x6 HWID
+  "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
