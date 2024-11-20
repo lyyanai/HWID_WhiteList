@@ -49,6 +49,7 @@ return {
   "92c60739-e2ba-4987-b2ab-ffa146d8b90e", -- idiotism_fr AKA idiotism HWID
   "f2a5ccdd-1c53-433e-b0bf-b888b83bc933", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
+  "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
