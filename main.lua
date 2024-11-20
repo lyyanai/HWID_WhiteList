@@ -26,7 +26,7 @@ return {
   "629e2728-0fc1-451d-897c-34accca06a0d", -- zero018185 AKA Zero HWID
   "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
   "48bb9aab-701f-454d-a636-8b3337f6ef2d", -- ddmm11_. AKA dmmd HWID
-  "0f483084-9d26-4be5-9b6f-cf6c3b268947", -- orielthegreat23 AKA the dead soul HWID
+  "a5a0ccb4-ff90-477f-9762-b163d2d85e33", -- orielthegreat23 AKA the dead soul HWID
   "3251ab4a-60a4-4304-8977-b0a86e6c1f8e", -- kayaakk HWID
   "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
   "FF272E35-34C1-43EB-B7B7-62992D0DE761", -- on sigma hwid
@@ -46,7 +46,7 @@ return {
   "5dfe70d9-1154-4126-ba82-9aa5813d3c73", -- paradox.nothing AKA Paradox Time HWID
   "cf05e1ef-bbed-4588-b256-79a8e813e823", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
-  "92c60739-e2ba-4987-b2ab-ffa146d8b90e", -- idiotism_fr AKA idiotism HWID
+  "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
   "f2a5ccdd-1c53-433e-b0bf-b888b83bc933", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
