@@ -33,7 +33,7 @@ return {
   "dc121f00-c103-4f4b-ab7f-e08cf280f240", -- stardeww_ AKA starzxx HWID
   "a4de64d9-29a8-4888-b853-bf74b35b90f9", -- strikerpro AKA strikerpro_gamer HWID
   "47652d9d-0dc8-42ba-984b-d72ad61fecde", -- thien5667 AKA thien HWID
-  "dd18f944-23d1-4d2e-b28d-e15012960488", -- gilangsan HWID
+  "1b876e67-280f-410f-ae8f-dd5a0a9c05f5", -- gilangsan HWID
   "a82f5a32-7125-4d25-b9e2-5c1901349bd3", -- messigamer_44421 AKA Normal Guy HWID
   "77c78b77-7564-45d5-9cbd-761b01dd944b", -- randycanvas AKA FreddyBazbear HWID
   "600c3200-27b7-4d3d-ad6f-71b570097a6e", -- jett99q37 AKA Jett HWID
@@ -51,6 +51,7 @@ return {
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
   "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
+  "f5602718-445b-4fad-be2e-a7f3d158e83d", -- jwjo AKA huncho HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
