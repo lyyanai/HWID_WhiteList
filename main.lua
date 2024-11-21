@@ -25,7 +25,7 @@ return {
   "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA 
   "629e2728-0fc1-451d-897c-34accca06a0d", -- zero018185 AKA Zero HWID
   "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
-  "48bb9aab-701f-454d-a636-8b3337f6ef2d", -- ddmm11_. AKA dmmd HWID
+  "f7b32aa3-2bce-4b07-8631-baa008244222", -- ddmm11_. AKA dmmd HWID
   "a5a0ccb4-ff90-477f-9762-b163d2d85e33", -- orielthegreat23 AKA the dead soul HWID
   "3251ab4a-60a4-4304-8977-b0a86e6c1f8e", -- kayaakk HWID
   "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
