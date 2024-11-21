@@ -50,6 +50,7 @@ return {
   "f2a5ccdd-1c53-433e-b0bf-b888b83bc933", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
+  "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
