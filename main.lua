@@ -43,7 +43,7 @@ return {
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
   "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
-  "5dfe70d9-1154-4126-ba82-9aa5813d3c73", -- paradox.nothing AKA Paradox Time HWID
+  "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
   "cf05e1ef-bbed-4588-b256-79a8e813e823", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
