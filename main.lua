@@ -54,6 +54,7 @@ return {
   "f5602718-445b-4fad-be2e-a7f3d158e83d", -- jwjo AKA huncho HWID
   "e339f4f6-06c6-4100-bad2-07e2fd7d56f6", -- ripperhub AKA Reaper HWID
   "54a6e95e-2fd4-4e84-87a5-e951545e14c8", -- randycanvas AKA ControllerShocker HWID
+  "df6da62c-5f6d-4578-ac17-af2ffe567d56", -- rjdkskjdjdksksnsnsn HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
