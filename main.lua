@@ -56,6 +56,7 @@ return {
   "54a6e95e-2fd4-4e84-87a5-e951545e14c8", -- randycanvas AKA ControllerShocker HWID
   "df6da62c-5f6d-4578-ac17-af2ffe567d56", -- rjdkskjdjdksksnsnsn HWID
   "996f2f93-6b76-4618-9b66-918b39873574", -- ifoundalolguy AKA Arch Scripts/Timer Scripts HWID
+  "f355b378-eb3e-4849-a0d9-889e2747854b", -- thatguy2money AKA That One Guy HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
