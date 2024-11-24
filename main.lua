@@ -59,6 +59,7 @@ return {
   "f355b378-eb3e-4849-a0d9-889e2747854b", -- thatguy2money AKA That One Guy HWID
   "6a414974-056d-4bc6-95fd-6d5b6ecfb4af", -- 0zike0 AKA Zike HWID
   "f8b20e85-3d28-4941-a815-c9fe07cd0338", -- linhlunne AKA Ponlia HWID
+  "831B3E32-49A2-4B84-91E7-A8CFCC9E811C", -- rratushsa HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
