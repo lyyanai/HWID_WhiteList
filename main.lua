@@ -60,6 +60,7 @@ return {
   "6a414974-056d-4bc6-95fd-6d5b6ecfb4af", -- 0zike0 AKA Zike HWID
   "f8b20e85-3d28-4941-a815-c9fe07cd0338", -- linhlunne AKA Ponlia HWID
   "831B3E32-49A2-4B84-91E7-A8CFCC9E811C", -- rratushsa HWID
+  "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", --x8.u AKA x8 hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
