@@ -39,11 +39,11 @@ return {
   "600c3200-27b7-4d3d-ad6f-71b570097a6e", -- jett99q37 AKA Jett HWID
   "01EA9F03-42C6-47F9-A819-C8C98BF386DA", -- kasisupport AKA Kasi HWID
   "759514FC-1997-4F55-A76A-FBD00308F463", -- whiteones AKA zeo HWID
-  "3c6f2cc2-3c52-4266-af35-2ecccda8f407", -- nothingperk AKA Nothing HWID
+  "b69a0a29-31b2-4890-a302-81fe1d92c65f", -- nothingperk AKA Nothing HWID
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
   "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
-  "58985047-E62D-4EE3-A924-3B2E3E880559", -- paradox.nothing AKA Paradox Time HWID
+  "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
   "66a57ae5-2e7d-411c-a2f8-b649fba32bdd", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
@@ -59,8 +59,10 @@ return {
   "f355b378-eb3e-4849-a0d9-889e2747854b", -- thatguy2money AKA That One Guy HWID
   "6a414974-056d-4bc6-95fd-6d5b6ecfb4af", -- 0zike0 AKA Zike HWID
   "f8b20e85-3d28-4941-a815-c9fe07cd0338", -- linhlunne AKA Ponlia HWID
-  "831B3E32-49A2-4B84-91E7-A8CFCC9E811C", -- rratushsa HWID
+  "88685097-7d62-45e1-a243-58531c5c5e1d", -- rratushsa HWID
   "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", --x8.u AKA x8 hwid
+  "3fa98617-818c-4ba1-bf62-795f58cfbb69", --rob_bloxy AKA robbloxYT HWID
+  "0279e91d-5a26-4136-beec-7f478ff993c5", -- wssb_. AKA haha hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
