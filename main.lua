@@ -63,6 +63,7 @@ return {
   "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", --x8.u AKA x8 hwid
   "3fa98617-818c-4ba1-bf62-795f58cfbb69", --rob_bloxy AKA robbloxYT HWID
   "0279e91d-5a26-4136-beec-7f478ff993c5", -- wssb_. AKA haha hwid
+  "803dedbb-4baa-45f4-97d7-0bc55ab7f900", -- pyro_o AKA pyro hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
