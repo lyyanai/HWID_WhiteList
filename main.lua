@@ -67,6 +67,7 @@ return {
   "d7c34acc-9802-4488-a947-df4c0118a1af", -- 4sia_3 AKA ray HWID
   "1b72a43f-41fa-4fa4-80d7-d3bf20a40009", -- warriyo_o hwi
   "8E3B8D8F-9471-4BEA-9CA1-CA6911A64BCD", --qwefsdasaf AKa ricardo. hwid
+  "a53c92d6-ff35-41bc-9640-3e5d18e91a8b", -- lol082709 AKA Lol HWID
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
