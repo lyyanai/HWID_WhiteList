@@ -26,7 +26,7 @@ return {
   "629e2728-0fc1-451d-897c-34accca06a0d", -- zero018185 AKA Zero HWID
   "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
   "f7b32aa3-2bce-4b07-8631-baa008244222", -- ddmm11_. AKA dmmd HWID
-  "a5a0ccb4-ff90-477f-9762-b163d2d85e33", -- orielthegreat23 AKA the dead soul HWID
+  "5277d55f-26ee-42d1-a852-faa2ba1344cb", -- orielthegreat23 AKA the dead soul HWID
   "3251ab4a-60a4-4304-8977-b0a86e6c1f8e", -- kayaakk HWID
   "665306cb-67c8-4ba4-b3d5-bfd749bf1e0c", -- nadzil HWID
   "FF272E35-34C1-43EB-B7B7-62992D0DE761", -- on sigma hwid
@@ -47,7 +47,7 @@ return {
   "66a57ae5-2e7d-411c-a2f8-b649fba32bdd", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
-  "f2a5ccdd-1c53-433e-b0bf-b888b83bc933", -- poopking. AKA moai emoji x6 HWID
+  "eff161bd-f8d5-40cd-9c8e-d65a3e7a24ba", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
   "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
@@ -65,6 +65,7 @@ return {
   "0279e91d-5a26-4136-beec-7f478ff993c5", -- wssb_. AKA haha hwid
   "803dedbb-4baa-45f4-97d7-0bc55ab7f900", -- pyro_o AKA pyro hwid
   "d7c34acc-9802-4488-a947-df4c0118a1af", -- 4sia_3 AKA ray HWID
+  "1b72a43f-41fa-4fa4-80d7-d3bf20a40009", -- warriyo_o hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
