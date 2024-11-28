@@ -49,7 +49,7 @@ return {
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
   "eff161bd-f8d5-40cd-9c8e-d65a3e7a24ba", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
-  "da4ba513-29ee-4f84-a5c9-6d26f2bdc6a3", -- NEXER LOOL
+  "62c92720-4e8d-4568-993b-92ec0d36023c", -- NEXER LOOL
   "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
   "f5602718-445b-4fad-be2e-a7f3d158e83d", -- jwjo AKA huncho HWID
   "e339f4f6-06c6-4100-bad2-07e2fd7d56f6", -- ripperhub AKA Reaper HWID
