@@ -72,6 +72,7 @@ return {
   "B48C0C31-697F-439A-9191-58FE23354938", -- sap_ontop aka slap hwid
   "8744AAE2-51E4-4647-BB6B-EFDD60ECFB73", -- feather4837 AKA sap hwid pc
   "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
+  "8b99d85d-b0b0-49ad-a490-053ce35bfba5", -- godisbackhere aka god hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
