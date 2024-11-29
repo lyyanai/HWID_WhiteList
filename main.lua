@@ -23,7 +23,7 @@ return {
   "53b13ba9-b11f-476b-b9dd-a38765520ac9", -- idk who is it
   "da2547b7-d6a4-46d1-bbd1-26994dee2def", -- maybeorigin AKA Origin HWID
   "a60765f2-184d-44da-85d8-307c1654877e", -- thisnameistoobasic AKA 
-  "629e2728-0fc1-451d-897c-34accca06a0d", -- zero018185 AKA Zero HWID
+  "ee92847e-b982-4af3-bf73-0ebd6fd8e125", -- zero018185 AKA Zero HWID
   "4baa0a8e-ccce-47bd-a7e3-4537920a8ab1", -- zakiou7169 AKA 728974 HWID
   "f7b32aa3-2bce-4b07-8631-baa008244222", -- ddmm11_. AKA dmmd HWID
   "4615105e-6533-4cc3-bd1a-7deb1a3f42e5", -- orielthegreat23 AKA the dead soul HWID
@@ -60,16 +60,18 @@ return {
   "6a414974-056d-4bc6-95fd-6d5b6ecfb4af", -- 0zike0 AKA Zike HWID
   "f8b20e85-3d28-4941-a815-c9fe07cd0338", -- linhlunne AKA Ponlia HWID
   "88685097-7d62-45e1-a243-58531c5c5e1d", -- rratushsa HWID
-  "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", --x8.u AKA x8 hwid
-  "3fa98617-818c-4ba1-bf62-795f58cfbb69", --rob_bloxy AKA robbloxYT HWID
+  "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", -- x8.u AKA x8 hwid
+  "3fa98617-818c-4ba1-bf62-795f58cfbb69", -- rob_bloxy AKA robbloxYT HWID
   "0279e91d-5a26-4136-beec-7f478ff993c5", -- wssb_. AKA haha hwid
   "803dedbb-4baa-45f4-97d7-0bc55ab7f900", -- pyro_o AKA pyro hwid
   "d7c34acc-9802-4488-a947-df4c0118a1af", -- 4sia_3 AKA ray HWID
   "1b72a43f-41fa-4fa4-80d7-d3bf20a40009", -- warriyo_o hwi
-  "8E3B8D8F-9471-4BEA-9CA1-CA6911A64BCD", --qwefsdasaf AKa ricardo. hwid
+  "8E3B8D8F-9471-4BEA-9CA1-CA6911A64BCD", -- qwefsdasaf AKa ricardo. hwid
   "a53c92d6-ff35-41bc-9640-3e5d18e91a8b", -- lol082709 AKA Lol HWID
-  "BF785A27-CAE3-416F-9E9D-9B6783995A45", --iambeanos AKA sillybilly HEID
-  "B48C0C31-697F-439A-9191-58FE23354938", --sap_ontop aka slap hwid
+  "BF785A27-CAE3-416F-9E9D-9B6783995A45", -- iambeanos AKA sillybilly HEID
+  "B48C0C31-697F-439A-9191-58FE23354938", -- sap_ontop aka slap hwid
+  "8744AAE2-51E4-4647-BB6B-EFDD60ECFB73", -- feather4837 AKA sap hwid pc
+  "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
