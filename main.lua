@@ -74,6 +74,7 @@ return {
   "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
   "8b99d85d-b0b0-49ad-a490-053ce35bfba5", -- godisbackhere aka god hwid
   "85eba146-dbc4-42eb-9ace-d883a2eb5d70", -- jujudged AKA E A JUJU HWID
+  "00dd6b44-42f8-42c6-8887-7f4d98fe252e", -- abyssalchaser aka moon hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
