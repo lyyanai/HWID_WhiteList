@@ -58,10 +58,10 @@ return {
   "996f2f93-6b76-4618-9b66-918b39873574", -- ifoundalolguy AKA Arch Scripts/Timer Scripts HWID
   "f355b378-eb3e-4849-a0d9-889e2747854b", -- thatguy2money AKA That One Guy HWID
   "6a414974-056d-4bc6-95fd-6d5b6ecfb4af", -- 0zike0 AKA Zike HWID
-  "f8b20e85-3d28-4941-a815-c9fe07cd0338", -- linhlunne AKA Ponlia HWID
+  "76ded0b2-ed6c-4ee7-8405-2a1f6eed556e", -- linhlunne AKA Ponlia HWID
   "88685097-7d62-45e1-a243-58531c5c5e1d", -- rratushsa HWID
   "5C9E1CC3-1DEE-4CC5-8111-61D1A4C68F7A", -- x8.u AKA x8 hwid
-  "3fa98617-818c-4ba1-bf62-795f58cfbb69", -- rob_bloxy AKA robbloxYT HWID
+  "055c11d8-187c-44f6-adcb-3816dc7499bb", -- rob_bloxy AKA robbloxYT HWID
   "0279e91d-5a26-4136-beec-7f478ff993c5", -- wssb_. AKA haha hwid
   "803dedbb-4baa-45f4-97d7-0bc55ab7f900", -- pyro_o AKA pyro hwid
   "d7c34acc-9802-4488-a947-df4c0118a1af", -- 4sia_3 AKA ray HWID
@@ -72,9 +72,11 @@ return {
   "B48C0C31-697F-439A-9191-58FE23354938", -- sap_ontop aka slap hwid
   "8744AAE2-51E4-4647-BB6B-EFDD60ECFB73", -- feather4837 AKA sap hwid pc
   "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
-  "8b99d85d-b0b0-49ad-a490-053ce35bfba5", -- godisbackhere aka god hwid
+  "eec19e32-abcc-4dfe-924c-b370bd1c6b7a", -- godisbackhere aka god hwid
   "85eba146-dbc4-42eb-9ace-d883a2eb5d70", -- jujudged AKA E A JUJU HWID
   "00dd6b44-42f8-42c6-8887-7f4d98fe252e", -- abyssalchaser aka moon hwid
+  "6386559d-f1fe-41a6-8036-cc04a977a101", -- moon new
+  "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
