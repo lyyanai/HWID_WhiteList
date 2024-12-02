@@ -79,6 +79,7 @@ return {
   "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
   "3bbb9d05-094d-4dfd-b685-a00973b220ab", -- gggslaps hwid
   "d8b45296-8b8e-4877-8499-1c31cb50163e", -- chicken054022 AKA chicken hwid
+  "9ead6f75-c878-40fd-ab20-a2508f228a61", -- simulatergrinder AKA goober hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
