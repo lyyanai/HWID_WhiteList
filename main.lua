@@ -77,6 +77,7 @@ return {
   "00dd6b44-42f8-42c6-8887-7f4d98fe252e", -- abyssalchaser aka moon hwid
   "6386559d-f1fe-41a6-8036-cc04a977a101", -- moon new
   "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
+  "3bbb9d05-094d-4dfd-b685-a00973b220ab", -- gggslaps hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
