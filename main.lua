@@ -43,11 +43,11 @@ return {
   "fceb5a9a-9448-4f7f-9a97-4cc35fe5d9dd", -- Death hwid
   "139642A4-696D-432B-9A8F-68EBBC7D5DD3", -- death another hwid
   "eaaa41f8-987f-4f09-81bd-c7f455345420", -- 1z0_1 AKA square simvol hwid
-  "b36d93e6-334a-4b6b-8f50-87271c06b412", -- paradox.nothing AKA Paradox Time HWID
+  "58985047-E62D-4EE3-A924-3B2E3E880559", -- paradox.nothing AKA Paradox Time HWID
   "66a57ae5-2e7d-411c-a2f8-b649fba32bdd", -- Kanade HWID
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
-  "eff161bd-f8d5-40cd-9c8e-d65a3e7a24ba", -- poopking. AKA moai emoji x6 HWID
+  "7fe6a6ff-a202-4199-8214-1d25f1bea096", -- poopking. AKA moai emoji x6 HWID
   "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
   "62c92720-4e8d-4568-993b-92ec0d36023c", -- NEXER LOOL
   "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
@@ -77,9 +77,10 @@ return {
   "00dd6b44-42f8-42c6-8887-7f4d98fe252e", -- abyssalchaser aka moon hwid
   "6386559d-f1fe-41a6-8036-cc04a977a101", -- moon new
   "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
-  "3bbb9d05-094d-4dfd-b685-a00973b220ab", -- gggslaps hwid
+  "370693a1-16a3-48df-a5f0-2bbb9adeb8d1", -- gggslaps hwid
   "d8b45296-8b8e-4877-8499-1c31cb50163e", -- chicken054022 AKA chicken hwid
   "9ead6f75-c878-40fd-ab20-a2508f228a61", -- simulatergrinder AKA goober hwid
+  "4a550268-b319-4537-8054-5b185b2722d6", -- jose_xit12132 Aka Jose Paulo hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
