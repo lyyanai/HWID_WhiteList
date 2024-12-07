@@ -85,6 +85,7 @@ return {
   "aa8ff940-cfd3-4f33-8167-198dbad1f5ab",--uchiha_sasuk_e
   "5FFCBF1C-2A4F-418C-97FD-7405E09465A8", --base (delete this next time)
   "d64116a4-8b57-4ff4-a08c-1b373582209f",-- s3ji aka Arabic symbols hwid
+  "4E446858-A62B-4F7C-8D15-1EA075FEF2DE" -- luca_e_aici hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
