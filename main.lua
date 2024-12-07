@@ -48,7 +48,7 @@ return {
   "BC133473-63A4-4FE2-9879-8CAC2D0CDA32", -- neonslapbattle ALA NeonVoxel HWID
   "0074c695-0b51-499a-8a42-50c541ccbdfe", -- idiotism_fr AKA idiotism HWID
   "7fe6a6ff-a202-4199-8214-1d25f1bea096", -- poopking. AKA moai emoji x6 HWID
-  "92170ca6-66bf-40d8-804e-d27ce5ab1d18", -- xotic_tf AKA xotic_tf HWID
+  "0b51c2ff-85e4-4248-a634-e684a9861e93", -- xotic_tf AKA xotic_tf HWID
   "62c92720-4e8d-4568-993b-92ec0d36023c", -- NEXER LOOL
   "0FF13970-1996-41A4-A5D5-E9DF2F0BDC12", -- totallyace HWID
   "f5602718-445b-4fad-be2e-a7f3d158e83d", -- jwjo AKA huncho HWID
