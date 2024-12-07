@@ -81,7 +81,9 @@ return {
   "d8b45296-8b8e-4877-8499-1c31cb50163e", -- chicken054022 AKA chicken hwid
   "9ead6f75-c878-40fd-ab20-a2508f228a61", -- simulatergrinder AKA goober hwid
   "4a550268-b319-4537-8054-5b185b2722d6", -- jose_xit12132 Aka Jose Paulo hwid
-  "3250e112-046a-4a81-a4f8-8f3a62bb3fdf", -- ellierrrr. heid
+  "3250e112-046a-4a81-a4f8-8f3a62bb3fdf", -- ellierrrr. hwid
+  "aa8ff940-cfd3-4f33-8167-198dbad1f5ab",--uchiha_sasuk_e
+  "5FFCBF1C-2A4F-418C-97FD-7405E09465A8", --base (delete this next time)
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
