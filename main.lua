@@ -77,7 +77,7 @@ return {
   "541eaae8-4027-4490-aba2-42868c40f222", -- abyssalchaser aka moon hwid
   "6386559d-f1fe-41a6-8036-cc04a977a101", -- moon new
   "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
-  "464b14e9-0c7d-4d08-ba3d-925692b09866", -- gggslaps hwid
+  "166a2a2f-de19-4354-81ff-8b59db20367e", -- gggslaps hwid
   "d8b45296-8b8e-4877-8499-1c31cb50163e", -- chicken054022 AKA chicken hwid
   "9ead6f75-c878-40fd-ab20-a2508f228a61", -- simulatergrinder AKA goober hwid
   "4a550268-b319-4537-8054-5b185b2722d6", -- jose_xit12132 Aka Jose Paulo hwid
