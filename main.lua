@@ -71,7 +71,7 @@ return {
   "BF785A27-CAE3-416F-9E9D-9B6783995A45", -- iambeanos AKA sillybilly HEID
   "B48C0C31-697F-439A-9191-58FE23354938", -- sap_ontop aka slap hwid
   "8744AAE2-51E4-4647-BB6B-EFDD60ECFB73", -- feather4837 AKA sap hwid pc
-  "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
+  "1a01ced5-bc1c-4242-814b-4bfbdac0e962", -- feather4837 Aka sap hwid mobile
   "eec19e32-abcc-4dfe-924c-b370bd1c6b7a", -- godisbackhere aka god hwid
   "85eba146-dbc4-42eb-9ace-d883a2eb5d70", -- jujudged AKA E A JUJU HWID
   "dfb59439-fa49-48fb-9ad9-af73190ec541", -- abyssalchaser aka moon hwid
@@ -88,6 +88,8 @@ return {
   "4E446858-A62B-4F7C-8D15-1EA075FEF2DE", -- luca_e_aici hwid
   "F369FAFC-5F4F-4A13-AA95-2E816970F58A", -- lix hwid
   "d8997d9f-b99a-48f1-9a4f-e1406b7b5f9f", -- hilariousperson
+  "61d8e4a5-07fb-4b0e-8a80-0284a96c5d70", -- baconscripter
+  "82b14c5a-4070-4a56-bc76-a223ca3870cb", -- jujudged
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
