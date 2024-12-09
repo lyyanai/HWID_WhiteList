@@ -16,7 +16,7 @@ return {
   "4e9e6144-d779-4329-97f8-f4a193c83495", -- nexer1234 AKA Nexer1234 HWID { PC }
   "759864FE-D9EE-441F-94DD-20E3E12EF596", -- thewho0404 AKA thewho HWID { PC }
   "759864fe-d9ee-441f-94dd-20e3e12ef596", -- thewho0404 AKA thewho HWID { PC }
-  "528400c5-d76f-4be0-8b80-63635f2ca6ea", -- thewho0404 AKA thewho HWID
+  "d6ecf35f-c0ba-45f6-a74e-6c60fd5394b0", -- thewho0404 AKA thewho HWID
   "857610fb-5833-4ec9-90a7-5991a5da3312", -- noob12345678999 AKA demon HWID
   "45d3b466-5d89-4976-849f-78bdc11d91e9", -- ivan pooper
   "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
@@ -74,7 +74,7 @@ return {
   "ed6d4745-cef8-4ee7-9706-b743aa05362f", -- feather4837 Aka sap hwid mobile
   "eec19e32-abcc-4dfe-924c-b370bd1c6b7a", -- godisbackhere aka god hwid
   "85eba146-dbc4-42eb-9ace-d883a2eb5d70", -- jujudged AKA E A JUJU HWID
-  "541eaae8-4027-4490-aba2-42868c40f222", -- abyssalchaser aka moon hwid
+  "dfb59439-fa49-48fb-9ad9-af73190ec541", -- abyssalchaser aka moon hwid
   "6386559d-f1fe-41a6-8036-cc04a977a101", -- moon new
   "116e6636-0580-4acb-bd31-d131e7796914", -- rjdkskjdjdksksnsnsn hwid
   "166a2a2f-de19-4354-81ff-8b59db20367e", -- gggslaps hwid
@@ -86,6 +86,8 @@ return {
   "5FFCBF1C-2A4F-418C-97FD-7405E09465A8", --base (delete this next time)
   "d64116a4-8b57-4ff4-a08c-1b373582209f",-- s3ji aka Arabic symbols hwid
   "4E446858-A62B-4F7C-8D15-1EA075FEF2DE", -- luca_e_aici hwid
+  "F369FAFC-5F4F-4A13-AA95-2E816970F58A", -- lix hwid
+  "d8997d9f-b99a-48f1-9a4f-e1406b7b5f9f", -- hilariousperson
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
