@@ -86,10 +86,12 @@ return {
   "5FFCBF1C-2A4F-418C-97FD-7405E09465A8", --base (delete this next time)
   "d64116a4-8b57-4ff4-a08c-1b373582209f",-- s3ji aka Arabic symbols hwid
   "4E446858-A62B-4F7C-8D15-1EA075FEF2DE", -- luca_e_aici hwid
-  "F369FAFC-5F4F-4A13-AA95-2E816970F58A", -- lix hwid
+  "7F6F6CF5-1BE5-42ED-B9E7-1A2C66B31F75", -- lix hwid
   "d8997d9f-b99a-48f1-9a4f-e1406b7b5f9f", -- hilariousperson
   "61d8e4a5-07fb-4b0e-8a80-0284a96c5d70", -- baconscripter
   "82b14c5a-4070-4a56-bc76-a223ca3870cb", -- jujudged
+  "F369FAFC-5F4F-4A13-AA95-2E816970F58A", -- nevin0289
+  "eb33c396-fc77-43d5-9c1d-1a4ee0ada924", -- Tay Edits
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
