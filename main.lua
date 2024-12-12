@@ -93,6 +93,7 @@ return {
   "F369FAFC-5F4F-4A13-AA95-2E816970F58A", -- nevin0289
   "eb33c396-fc77-43d5-9c1d-1a4ee0ada924", -- Tay Edits
   "d7421b3e-81e8-46ad-a4d1-3f2c5dedae06", -- foxgameffyt
+  "197C5AD8-88BF-4EC3-8BD6-1C6B940ACED3", -- robotix_x aka zzz hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
