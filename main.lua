@@ -95,7 +95,8 @@ return {
   "d7421b3e-81e8-46ad-a4d1-3f2c5dedae06", -- foxgameffyt
   "197C5AD8-88BF-4EC3-8BD6-1C6B940ACED3", -- robotix_x aka zzz hwid
   "c1cb10e3-627e-44fe-8770-8664a13a8c05", -- friendsecrets aka Oliver Roblox hwid
-  "05B7E3F6-5E5B-4A1A-9A82-A9C210E006DF", -- itzbeatrix_h3 aka flix heid
+  "05B7E3F6-5E5B-4A1A-9A82-A9C210E006DF", -- itzbeatrix_h3 aka flix hwid
+  "ccd490c7-cc35-4612-b779-ae12f23c2619", -- nightwatcher
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
