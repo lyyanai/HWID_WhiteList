@@ -6,7 +6,7 @@ return {
   "1D0C9AED-5B94-42DB-9DF0-BBF13B2A3403", -- rom6481 AKA idk HWID { PC }
   "1d0c9aed-5b94-42db-9df0-bbf13b2a3403", -- rom6481 AKA idk HWID { PC }
   "205b837d-8626-4245-b627-11d447221d23", -- barond._ AKA Yhazhy HWID
-  "babd79dc-ce55-4d31-bcf9-1f72ccd30060", -- niceon1 AKA hehehehehehehehe HWID
+  "38b675bd-d559-4902-bf29-ae57525decba", -- niceon1 AKA hehehehehehehehe HWID
   "4BEB2D40-00AF-46DD-955A-0D3153C91A78", -- stas0354 AKA Scripter HWID { PC } 
   "4beb2d40-00af-46dd-955a-0d3153c91a78", -- stas0354 AKA Scripter HWID { PC }
   "203b0997-d374-474e-989c-7c8aa6607ad5", -- nexer1234 AKA Nexer1234 HWID
@@ -97,6 +97,7 @@ return {
   "c1cb10e3-627e-44fe-8770-8664a13a8c05", -- friendsecrets aka Oliver Roblox hwid
   "05B7E3F6-5E5B-4A1A-9A82-A9C210E006DF", -- itzbeatrix_h3 aka flix hwid
   "ccd490c7-cc35-4612-b779-ae12f23c2619", -- nightwatcher
+  "831B3E32-49A2-4B84-91E7-A8CFCC9E811C", -- rratusha
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
