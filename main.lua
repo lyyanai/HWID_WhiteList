@@ -16,7 +16,7 @@ return {
   "4e9e6144-d779-4329-97f8-f4a193c83495", -- nexer1234 AKA Nexer1234 HWID { PC }
   "759864FE-D9EE-441F-94DD-20E3E12EF596", -- thewho0404 AKA thewho HWID { PC }
   "759864fe-d9ee-441f-94dd-20e3e12ef596", -- thewho0404 AKA thewho HWID { PC }
-  "d6ecf35f-c0ba-45f6-a74e-6c60fd5394b0", -- thewho0404 AKA thewho HWID
+  "7c0617a1-8eb5-47d8-b48c-aeb4ba5ad1ca", -- thewho0404 AKA thewho HWID
   "857610fb-5833-4ec9-90a7-5991a5da3312", -- noob12345678999 AKA demon HWID
   "45d3b466-5d89-4976-849f-78bdc11d91e9", -- ivan pooper
   "1074ed58-2bc8-44ff-8b74-b014f6f4dd98", -- elhaq0130 AKA not npc HWID
