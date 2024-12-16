@@ -99,6 +99,7 @@ return {
   "ccd490c7-cc35-4612-b779-ae12f23c2619", -- nightwatcher
   "831B3E32-49A2-4B84-91E7-A8CFCC9E811C", -- rratusha
   "cdbb464b-502e-4f39-96ab-592a884a8ee3", -- not npc
+  "b44afab0-e681-4a81-98ce-3b26d3a2691a", -- howdystickyjoe
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
