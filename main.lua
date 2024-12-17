@@ -101,6 +101,7 @@ return {
   "cdbb464b-502e-4f39-96ab-592a884a8ee3", -- not npc
   "b44afab0-e681-4a81-98ce-3b26d3a2691a", -- howdystickyjoe
   "b098a8b5-f24c-4b2f-8775-16642e853fd9", -- bro with Bob pfp (not uset)
+  "e91b9a65-962d-46fc-a61a-f0ed84b54c4d", -- smsidhdjwhebndjsnjdn FUCK
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
