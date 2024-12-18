@@ -102,6 +102,7 @@ return {
   "b44afab0-e681-4a81-98ce-3b26d3a2691a", -- howdystickyjoe
   "b098a8b5-f24c-4b2f-8775-16642e853fd9", -- bro with Bob pfp (not uset)
   "e91b9a65-962d-46fc-a61a-f0ed84b54c4d", -- smsidhdjwhebndjsnjdn FUCK
+  "2D5C4414-AA5C-441F-A244-143FDEDD11CB", -- Nas hwid
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
